@@ -3,6 +3,7 @@ Various plotting functions/scripts for Matlab
 
 Major functions:
 PlotTableGroupBar.m
+![alt text](sample.png?raw=true "Title")
 
 % function vals = PlotTableGroupBar(tbl, field_val, field_major, field_minor, colors, field_text, flag_open)
 % 
